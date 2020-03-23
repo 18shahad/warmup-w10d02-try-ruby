@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Go through the first three levels of [Try Ruby](https://try.ruby-lang.org/levels).
+Go through the first three levels of [Try Ruby](https://try.ruby-lang.org).
 
 ## Deliverables
 
